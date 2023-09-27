@@ -1,11 +1,11 @@
 body {
-    background: #7f7fd5;
-    background: -webkit-linear-gradient(to right, #91eae4, #86a8e7, #7f7fd5); /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #91eae4, #86a8e7, #7f7fd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #8e8ef4;
+    background: -webkit-linear-gradient(to right, #8defe8, #78a2ef, #6f6fea); 
+    background: linear-gradient(to right, #6fcbc5, #6a8ac6, #6c6cb8);
 }
 
 .bg-white {
-    background-color: #ffffff;
+    background-color: #fcfcfc;
 }
 
 #descripcion {
